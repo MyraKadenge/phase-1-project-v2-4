@@ -29,7 +29,11 @@ After cleaning of my datasets, there was merging of the datasets based on the co
 
 
 Based on my visualizations and analysis, it is seen that the drama genre has the highest count and popularity in general.
+
+![alt text](image-3.png)
+
 Another finding is that the fox studio seems to be the most profitable studio in the industry.
+![alt text](image-2.png)
 Another finding is that the genres with the highest popularity seem to be the ones that bring more revenue.
 
 Conclusion
@@ -40,3 +44,6 @@ Summary of conclusions including three relevant findings
 1. Microsoft should consider holding several meetings with fox studio to find a way forward or probably venture into a partnership
 2. Microsoft needs to focus on the drama genre in their production.
 3. Microsoft needs to create unique productions specifically in the drama genre to maintain and increase popularity that is alrady present in the specific genre for profits.
+
+
+[def]: image.png
